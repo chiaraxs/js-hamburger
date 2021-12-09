@@ -21,7 +21,7 @@ closeMenuButton.addEventListener("click", function() {
 
 // bonus - clickCounter //
 
-var button = document.getElementById("clickme"),
+let button = document.getElementById("clickme"),
   count = 0;
 button.onclick = function() {
   count += 1;

@@ -109,9 +109,9 @@ header {
 .main {
     margin: 100px auto;
     text-align: center;
-  }
+}
   
-  button {
+button {
     padding: 20px;
     margin: 20px;
     background: transparent;
@@ -121,6 +121,7 @@ header {
     border: 3px solid black;
     color: lightblue;
 }
+
 #clickme, h4{
     color: orange;
 }
